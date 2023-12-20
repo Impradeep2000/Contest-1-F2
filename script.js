@@ -56,3 +56,5 @@ let arr = [
     console.log('Consoling Array Variable', arr);
     // Over here I can directly access the variable.
   }
+
+  console.log("hello")
